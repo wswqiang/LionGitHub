@@ -13,7 +13,7 @@ Object-c
 8: http://regexkit.sourceforge.net/RegexKitLite/  RegexKitLite（正则表达式支持）  
 
 
-9: https://github.com/Nyx0uf/NYXImagesKit       UIImage 类 增强 Lib
+9: https://github.com/Nyx0uf/NYXImagesKit       UIImage 类 增强 Lib     
 10: https://github.com/BradLarson/GPUImage      UIImage 处理
    
    
