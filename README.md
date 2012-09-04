@@ -14,6 +14,9 @@ Object-c
 9: https://github.com/Nyx0uf/NYXImagesKit       UIImage 类 增强 Lib     
 10: https://github.com/BradLarson/GPUImage      UIImage 处理      
 11: https://github.com/ccgus/fmdb      SQLite Database      
+      
+12：https://github.com/mattgemmell/MGSplitViewController  是UISplitViewController的替代品，有很多增强功能      
+      
 
    
    
