@@ -16,6 +16,8 @@ Object-c
 11: https://github.com/ccgus/fmdb      SQLite Database      
       
 12：https://github.com/mattgemmell/MGSplitViewController  是UISplitViewController的替代品，有很多增强功能      
+
+13: https://github.com/ylechelle/OpenUDID       OpenUDID替代UDID        
       
 
    
