@@ -17,9 +17,10 @@ Object-c
       
 12：https://github.com/mattgemmell/MGSplitViewController  是UISplitViewController的替代品，有很多增强功能      
 
-13: https://github.com/ylechelle/OpenUDID       OpenUDID替代UDID        
-      
-
+IOS设备唯一标识
+==========
+1: https://github.com/gekitz/UIDevice-with-UniqueIdentifier-for-iOS-5   用MAC地址生成唯一标识         
+2: https://github.com/ylechelle/OpenUDID   OpenUDID替代UDID     
    
    
    
