@@ -25,7 +25,7 @@ IOS设备唯一标识
    
 PHP
 ==========        
-1: https://github.com/PHPOffice    PHPExcel csv、xls、pdf等文件         
+1: https://github.com/PHPOffice    PHPExcel：可以导出 csv、xls、pdf等文件         
    
    
 GitHub project note.
