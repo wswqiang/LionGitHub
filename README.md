@@ -23,8 +23,9 @@ IOS设备唯一标识
 2: https://github.com/ylechelle/OpenUDID   OpenUDID替代UDID     
    
    
-   
-   
+PHP
+==========        
+1: https://github.com/PHPOffice    PHPExcel csv、xls、pdf等文件         
    
    
 GitHub project note.
