@@ -8,9 +8,12 @@ Object-c
    https://github.com/pokeb/asi-http-request CFNetwork API,容易使用的http请求lib  
 数据库:           
 1: https://github.com/ccgus/fmdb      SQLite Database   
-文本解析：        
-1: https://github.com/71squared/TBXML  XML解析，速度快，使用方便
+XML解析：        
+1: https://github.com/71squared/TBXML  XML解析，速度快，使用方便     
 2: http://stig.github.com/json-framework/ JSON Framework（JSON支持）   
+Json 解析
+1：http://github.com/johnezang/JSONKit    
+
 其它：            
 1: https://github.com/samvermette/SVPullToRefresh UITableView 头部下拉刷新、tableview拖动到底部时刷新    
 2: https://github.com/gtmtg/MGDrawingSlate          手指拖动绘图 --可以参考下    
