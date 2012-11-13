@@ -13,6 +13,10 @@ XML解析：
 2: http://stig.github.com/json-framework/ JSON Framework（JSON支持）   
 Json 解析      
 1：http://github.com/johnezang/JSONKit    
+图片滤镜:      
+1: ios5.0 开始提供的 https://developer.apple.com/library/ios/#documentation/GraphicsImaging/Conceptual/CoreImaging/ci_autoadjustment/ci_autoadjustmentSAVE.html    
+2: https://github.com/Nyx0uf/NYXImagesKit       UIImage 类 增强 Lib     
+3: https://github.com/BradLarson/GPUImage      UIImage 处理      
 
 其它：            
 1: https://github.com/samvermette/SVPullToRefresh UITableView 头部下拉刷新、tableview拖动到底部时刷新    
@@ -20,10 +24,8 @@ Json 解析
 3：https://github.com/levinunnink/Smooth-Line-View  手指拖动绘图 --线条光滑,比较不错    
 4: https://github.com/rs/SDWebImage （简化网络图片处理）     
 5: http://regexkit.sourceforge.net/RegexKitLite/  RegexKitLite（正则表达式支持）  
-6: https://github.com/Nyx0uf/NYXImagesKit       UIImage 类 增强 Lib     
-7: https://github.com/BradLarson/GPUImage      UIImage 处理      
-8：https://github.com/mattgemmell/MGSplitViewController  是UISplitViewController的替代品，有很多增强功能      
-9：https://github.com/arashpayan/appirater 提示用户给你的app做出评价
+6：https://github.com/mattgemmell/MGSplitViewController  是UISplitViewController的替代品，有很多增强功能      
+7：https://github.com/arashpayan/appirater 提示用户给你的app做出评价
 
  
 
