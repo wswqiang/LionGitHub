@@ -39,5 +39,9 @@ PHP
 ==========        
 1: https://github.com/PHPOffice    PHPExcel：可以导出 csv、xls、pdf等文件         
    
-   
+C#    
+==========      
+1: https://github.com/Redth/PushSharp     c#发送APNS服务端     
+
+
 GitHub project note.
