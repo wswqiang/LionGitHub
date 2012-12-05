@@ -43,6 +43,10 @@ cover flow效果
 1：https://github.com/aceisScope/WaterflowView     
 2：https://github.com/ptshih/PSCollectionView      
 
+Web View Controller     
+1：https://github.com/samvermette/SVWebViewController    实现完整的网页显示（浏览器）功能，包括后退、前进、刷新、邮件分享等等
+
+
 
 其它：            
 1: https://github.com/samvermette/SVPullToRefresh UITableView 头部下拉刷新、tableview拖动到底部时刷新    
