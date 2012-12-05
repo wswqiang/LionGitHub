@@ -32,8 +32,17 @@ Json 解析
 cover flow效果    
 1:https://github.com/nicklockwood/iCarousel     近10种cover flow的效果，手指划动图片，图片将不断以3D的形式切换    
 
-进度条
+进度条      
 1：https://github.com/danielamitay/DACircularProgress    
+
+设置列表    
+1：https://github.com/escoz/quickdialog      自定义UITableViewCell。实现各种样式的TableView输入界面      
+2：https://github.com/jakemarsh/JMStaticContentTableViewController      代码的demo例子几乎百分之百还原了iOS中的设置列表    
+
+瀑布流视图     
+1：https://github.com/aceisScope/WaterflowView     
+2：https://github.com/ptshih/PSCollectionView      
+
 
 其它：            
 1: https://github.com/samvermette/SVPullToRefresh UITableView 头部下拉刷新、tableview拖动到底部时刷新    
