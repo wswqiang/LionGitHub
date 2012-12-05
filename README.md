@@ -29,8 +29,10 @@ Json 解析
 加载网络图片      
 1: https://github.com/rs/SDWebImage    异步加载并缓存    
 
-cover flow效果    
-1:https://github.com/nicklockwood/iCarousel     近10种cover flow的效果，手指划动图片，图片将不断以3D的形式切换    
+效果 
+1：https://github.com/devinross/tapkulibrary    UI效果类库
+   各种各样的iOS UI效果，比如Cover Flow，日历（calendar grid），HUD，Alert、Image Cache、HTTP Request、在地图上手动添加大头针（Pin）
+2: https://github.com/nicklockwood/iCarousel     近10种cover flow的效果，手指划动图片，图片将不断以3D的形式切换    
 
 进度条      
 1：https://github.com/danielamitay/DACircularProgress    
@@ -56,6 +58,13 @@ Web View Controller
 5：https://github.com/mattgemmell/MGSplitViewController  是UISplitViewController的替代品，有很多增强功能      
 6：https://github.com/arashpayan/appirater 提示用户给你的app做出评价
 7: https://github.com/vfr/Reader     PDF阅读器,可以缩略图查看文档、加书签、打印等等    
+8: https://github.com/ebutterfly/EBPurchase     应用内付费     
+9：https://github.com/mcconkiee/EMHint    
+在屏幕上的某个部位或控件加上高亮效果。多用于第一次打开应用时，指导用户使用应用的步骤界面，第一步做什么第二步做什么
+10：https://github.com/hezi/HZActivityIndicatorView      
+自定义UIActivityIndicatorView，包括颜色、图案、转动速度等等    
+11：https://github.com/dlinsin/DLStarRating   实现打分效果     
+
 
  
 
