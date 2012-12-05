@@ -51,11 +51,11 @@ Web View Controller
 其它：            
 1: https://github.com/samvermette/SVPullToRefresh UITableView 头部下拉刷新、tableview拖动到底部时刷新    
 2: https://github.com/gtmtg/MGDrawingSlate          手指拖动绘图 --可以参考下    
-3：https://github.com/levinunnink/Smooth-Line-View  手指拖动绘图 --线条光滑,比较不错    
-4: https://github.com/rs/SDWebImage （简化网络图片处理）     
-5: http://regexkit.sourceforge.net/RegexKitLite/  RegexKitLite（正则表达式支持）  
-6：https://github.com/mattgemmell/MGSplitViewController  是UISplitViewController的替代品，有很多增强功能      
-7：https://github.com/arashpayan/appirater 提示用户给你的app做出评价
+3：https://github.com/levinunnink/Smooth-Line-View  手指拖动绘图 --线条光滑,比较不错        
+4: http://regexkit.sourceforge.net/RegexKitLite/  RegexKitLite（正则表达式支持）  
+5：https://github.com/mattgemmell/MGSplitViewController  是UISplitViewController的替代品，有很多增强功能      
+6：https://github.com/arashpayan/appirater 提示用户给你的app做出评价
+7: https://github.com/vfr/Reader     PDF阅读器,可以缩略图查看文档、加书签、打印等等    
 
  
 
