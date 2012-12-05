@@ -19,6 +19,9 @@ Json 解析
 3: https://github.com/BradLarson/GPUImage      UIImage 处理      
 加载网络图片      
 1: https://github.com/rs/SDWebImage    异步加载并缓存        
+cover flow效果    
+1:https://github.com/nicklockwood/iCarousel     近10种cover flow的效果，手指划动图片，图片将不断以3D的形式切换    
+
 
 其它：            
 1: https://github.com/samvermette/SVPullToRefresh UITableView 头部下拉刷新、tableview拖动到底部时刷新    
