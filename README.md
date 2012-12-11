@@ -5,10 +5,10 @@ Object-c
 ==========
 网络: 
 1：https://github.com/tonymillion/Reachability     判断设备网络连接情况    
-2: http://allseeing-i.com/ASIHTTPRequest/ HTTP Network库   
-   https://github.com/pokeb/asi-http-request CFNetwork API,容易使用的http请求lib    
-3：https://github.com/AFNetworking/AFNetworking    
+2：https://github.com/AFNetworking/AFNetworking    
     AFNetworking是一个轻量级的iOS网络通信类库。它建立在NSURLConnection和NSOperation等类库的基础上，让很多网络通信功能的实现变得十分简单。它支持HTTP请求和基于REST的网络服务（包括GET、POST、 PUT、DELETE等）。支持ARC      
+3: http://allseeing-i.com/ASIHTTPRequest/ HTTP Network库   
+   https://github.com/pokeb/asi-http-request CFNetwork API,容易使用的http请求lib    
 3：https://github.com/MugunthKumar/MKNetworkKit    
 4: https://github.com/robbiehanson/CocoaAsyncSocket  TCP UDP
 
