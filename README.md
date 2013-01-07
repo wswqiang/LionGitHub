@@ -90,7 +90,13 @@ PHP
    
 C#    
 ==========      
-1: https://github.com/Redth/PushSharp     c#发送APNS服务端     
+1: https://github.com/Redth/PushSharp     c#发送APNS服务端          
+
+
+JS      
+==========      
+1: https://github.com/valums/file-uploader  ajax 文件上传       
+
 
 
 GitHub project note.
