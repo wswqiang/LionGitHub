@@ -57,8 +57,6 @@ https://github.com/zootreeves/Objective-C-HMTL-Parser
 Web View Controller     
 1：https://github.com/samvermette/SVWebViewController    实现完整的网页显示（浏览器）功能，包括后退、前进、刷新、邮件分享等等
 
-
-
 其它：            
 1: https://github.com/samvermette/SVPullToRefresh UITableView 头部下拉刷新、tableview拖动到底部时刷新    
 2: https://github.com/gtmtg/MGDrawingSlate          手指拖动绘图 --可以参考下    
@@ -74,7 +72,6 @@ Web View Controller
 自定义UIActivityIndicatorView，包括颜色、图案、转动速度等等    
 11：https://github.com/dlinsin/DLStarRating   实现打分效果     
 
-
  
 
 IOS设备唯一标识
@@ -82,21 +79,5 @@ IOS设备唯一标识
 1: https://github.com/gekitz/UIDevice-with-UniqueIdentifier-for-iOS-5   用MAC地址生成唯一标识         
 2: https://github.com/ylechelle/OpenUDID   OpenUDID替代UDID     
    
-   
-PHP
-==========        
-1: https://github.com/PHPOffice    PHPExcel：可以导出 csv、xls、pdf等文件     
-2: https://github.com/manifestinteractive/easyapns  IOS APNS 参考
-   
-C#    
-==========      
-1: https://github.com/Redth/PushSharp     c#发送APNS服务端          
-
-
-JS      
-==========      
-1: https://github.com/valums/file-uploader  ajax 文件上传       
-
-
 
 GitHub project note.
