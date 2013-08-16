@@ -72,6 +72,7 @@ Web View Controller
 10：https://github.com/hezi/HZActivityIndicatorView      
 自定义UIActivityIndicatorView，包括颜色、图案、转动速度等等    
 11：https://github.com/dlinsin/DLStarRating   实现打分效果     
+12: https://github.com/alikaragoz/AKTabBarController    自定义UITabBarController        
 
  
 
