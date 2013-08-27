@@ -58,6 +58,12 @@ https://github.com/zootreeves/Objective-C-HMTL-Parser
 Web View Controller     
 1：https://github.com/samvermette/SVWebViewController    实现完整的网页显示（浏览器）功能，包括后退、前进、刷新、邮件分享等等
 
+UIView Layout 页面布局      
+1：https://github.com/devindoty/DDMenuController        左右隐藏页面布局        
+
+
+
+
 其它：            
 1: https://github.com/samvermette/SVPullToRefresh UITableView 头部下拉刷新、tableview拖动到底部时刷新    
 2: https://github.com/gtmtg/MGDrawingSlate          手指拖动绘图 --可以参考下    
